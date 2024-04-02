@@ -20,6 +20,7 @@
 
 
 
+
 [New Features]
 
 -Befriend Passive Mobs with Wheat, preventing them from despawning
@@ -28,11 +29,13 @@
 
 
 
+
 [Hardcore Features]
 
 -No sleeping in Beds
 
 -Torch Burn-out
+
 
 
 
@@ -54,7 +57,9 @@
 
 
 
+
 [XP Rework]
+
 -XP curve is now linear. You always require 200 XP to level up
 
 -Mobs give significantly more XP(Based on Survival Test)
@@ -71,7 +76,9 @@
 
 
 
+
 [Hunger Rework]
+
 -Instant Eat
 
 -Pre-Release-like food stacks
@@ -81,6 +88,7 @@
 -Healing costs Saturation like newer versions
 
 -If you never sprint and never get hit, you will never lose hunger 
+
 
 
 
@@ -95,6 +103,7 @@
 -Blaze/Enderman/Skeletons now spawn naturally in the Nether
 
 -Nether Fortresses have Chest loot
+
 
 
 
