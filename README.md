@@ -21,7 +21,7 @@
 <p>[Enchanting Rework]</p>
 <p>-3rd slot in the Enchantment Table always gives the maximum level enchantment</p>
 <p>-Unbreaking can be applied to Armor</p>
-<p>-Hoes, Fishing Rods, Shears and Flint & Steel can be enchanted</p>
+<p>-Hoes, Fishing Rods, Shears and Flint &amp; Steel can be enchanted</p>
 <p>-Added Lure enchantment for Fishing(Faster reel-ins)</p>
 <p>-Added Trim enchantment for Shears(Bonus Wool from Sheep)</p>
 <p>-Fortune affects Apple/Cocoa Bean drop rates from Leaves</p>
@@ -52,3 +52,4 @@
 <p>&nbsp;</p>
 <p>[World Types]</p>
 <p>-Alpha world type with 1/4 chance of a Snow Covered world</p>
+<p>-Infdev 415 world type</p>
