@@ -13,6 +13,7 @@
 <p>[New Features]</p>
 <p>-Befriend Passive Mobs with Wheat, preventing them from despawning</p>
 <p>-Fishing has a loot table of Fish, Trash and Treasure</p>
+<p>-Health scales with Score</p>
 <p>&nbsp;</p>
 <p>[Hardcore Features]</p>
 <p>-No sleeping in Beds</p>
@@ -51,5 +52,5 @@
 <p>-Nether Fortresses have Chest loot</p>
 <p>&nbsp;</p>
 <p>[World Types]</p>
-<p>-Alpha world type with 1/4 chance of a Snow Covered world</p>
-<p>-Infdev 415 world type</p>
+<p>-Alpha world type (1/4 chance of a Snow Covered world)</p>
+<p>-Infdev 415 world type (1/4 chance of an Infdev 327 world)</p>
