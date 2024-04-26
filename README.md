@@ -1,4 +1,4 @@
-# WorseThanRelease
+# WorseThanRelease</p>
 <p><img /><img src="https://github.com/Charmareian/WorseThanRelease/blob/main/hell.png?raw=true" alt="" width="480" height="270" /></p>
 <p>[Readded "Features"]</p>
 <p>-999 Block/Item limit</p>
@@ -9,11 +9,14 @@
 <p>-Sleeping Nightmares</p>
 <p>-Farmland Trampling</p>
 <p>-Score Display</p>
+<p>-Farlands</p>
 <p>&nbsp;</p>
 <p>[New Features]</p>
 <p>-Befriend Passive Mobs with Wheat, preventing them from despawning</p>
 <p>-Fishing has a loot table of Fish, Trash and Treasure</p>
 <p>-Health scales with Score</p>
+<p>-Iron Boat(Unbreakable)</p>
+<p>-Crossbow</p>
 <p>&nbsp;</p>
 <p>[Hardcore Features]</p>
 <p>-No sleeping in Beds</p>
@@ -23,8 +26,11 @@
 <p>-3rd slot in the Enchantment Table always gives the maximum level enchantment</p>
 <p>-Unbreaking can be applied to Armor</p>
 <p>-Hoes, Fishing Rods, Shears and Flint &amp; Steel can be enchanted</p>
-<p>-Added Lure enchantment for Fishing(Faster reel-ins)</p>
+<p>-Added Lure enchantment for Fishing Rods(Faster reel-ins)</p>
+<p>-Added Curse of Famine curse for Fishing Rods(No Fish reel-ins)</p>
 <p>-Added Trim enchantment for Shears(Bonus Wool from Sheep)</p>
+<p>-Added Colorful enchantment for Shears(Turns Sheep into Classic Sheep)</p>
+<p>-Added Quick Charge and Range for Crossbows</p>
 <p>-Fortune affects Apple/Cocoa Bean drop rates from Leaves</p>
 <p>-Gold Tools/Armor have increased durability, making them great for enchanting</p>
 <p>&nbsp;</p>
