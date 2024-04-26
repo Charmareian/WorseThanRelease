@@ -15,7 +15,7 @@
 <p>-Befriend Passive Mobs with Wheat, preventing them from despawning</p>
 <p>-Fishing has a loot table of Fish, Trash and Treasure</p>
 <p>-Health scales with Score</p>
-<p>-Iron Boat(Unbreakable)</p>
+<p>-Iron Boat</p>
 <p>-Crossbow</p>
 <p>&nbsp;</p>
 <p>[Hardcore Features]</p>
