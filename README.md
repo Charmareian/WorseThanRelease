@@ -22,6 +22,7 @@
 <p>[Hardcore Features]</p>
 <p>-No sleeping in Beds</p>
 <p>-Torch Burn-out</p>
+<p>-Inventory is deleted upon death instead of the entire world</p>
 <p>&nbsp;</p>
 <p>[Enchanting Rework]</p>
 <p>-3rd slot in the Enchantment Table always gives the maximum level enchantment</p>
