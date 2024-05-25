@@ -17,6 +17,7 @@
 <p>-Health scales with Score</p>
 <p>-Iron Boat</p>
 <p>-Crossbow</p>
+<p>-Red Moons with dangerous nighttime mobs</p>
 <p>&nbsp;</p>
 <p>[Hardcore Features]</p>
 <p>-No sleeping in Beds</p>
@@ -42,6 +43,7 @@
 <p>-Fishing gives XP</p>
 <p>-Furnaces give XP</p>
 <p>-Ores drop XP</p>
+<p>-Double XP during Red Moons</p>
 <p>&nbsp;</p>
 <p>[Hunger Rework]</p>
 <p>-Instant Eat</p>
@@ -60,3 +62,6 @@
 <p>[World Types]</p>
 <p>-Alpha world type (1/4 chance of a Snow Covered world)</p>
 <p>-Infdev 415 world type (1/4 chance of an Infdev 327 world)</p>
+<p>&nbsp;</p>
+<p>[New Mobs]</p>
+<p>Fire Creeper, trades block destruction for speed and fire spread</p>
