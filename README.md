@@ -1,4 +1,4 @@
-# WorseThanRelease</p>
+# WorseThanRelease
 <p><img /><img src="https://github.com/Charmareian/WorseThanRelease/blob/main/hell.png?raw=true" alt="" width="480" height="270" /></p>
 <p>[Readded "Features"]</p>
 <p>-999 Block/Item limit</p>
@@ -14,14 +14,15 @@
 <p>[New Features]</p>
 <p>-Befriend Passive Mobs with Wheat, preventing them from despawning</p>
 <p>-Fishing has a loot table of Fish, Trash and Treasure</p>
-<p>-Health scales with Score</p>
 <p>-Iron Boat</p>
 <p>-Crossbow</p>
 <p>-Red Moons with dangerous nighttime mobs</p>
+<p>-Pigman trading</p>
 <p>&nbsp;</p>
 <p>[Hardcore Features]</p>
 <p>-No sleeping in Beds</p>
 <p>-Torch Burn-out</p>
+<p>-Health scales with Score</p>
 <p>-Inventory is deleted upon death instead of the entire world</p>
 <p>&nbsp;</p>
 <p>[Enchanting Rework]</p>
