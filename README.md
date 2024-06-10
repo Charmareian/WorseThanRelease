@@ -1,4 +1,4 @@
-# WorseThanRelease</p>
+<p># WorseThanRelease</p>
 <p><img /><img src="https://github.com/Charmareian/WorseThanRelease/blob/main/hell.png?raw=true" alt="" width="480" height="270" /></p>
 <p>[Readded "Features"]</p>
 <p>-999 Block/Item limit</p>
@@ -41,7 +41,7 @@
 <p>-XP curve is now linear. You always require 200 XP to level up</p>
 <p>-Mobs give significantly more XP(Based on Survival Test)</p>
 <p>-Befriending Mobs gives XP</p>
-<p>-Harvesting Wheat/Nether Wart gives XP</p>
+<p>-Harvesting Wheat/Nether Wart and tilling soil gives XP</p>
 <p>-Fishing gives XP</p>
 <p>-Furnaces give XP</p>
 <p>-Ores drop XP</p>
