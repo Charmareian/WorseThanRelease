@@ -1,4 +1,4 @@
-# WorseThanRelease
+# WorseThanRelease</p>
 <p><img /><img src="https://github.com/Charmareian/WorseThanRelease/blob/main/hell.png?raw=true" alt="" width="480" height="270" /></p>
 <p>[Readded "Features"]</p>
 <p>-999 Block/Item limit</p>
@@ -33,7 +33,7 @@
 <p>-Added Curse of Famine curse for Fishing Rods(No Fish reel-ins)</p>
 <p>-Added Trim enchantment for Shears(Bonus Wool from Sheep)</p>
 <p>-Added Colorful enchantment for Shears(Turns Sheep into Classic Sheep)</p>
-<p>-Added Quick Charge and Range for Crossbows</p>
+<p>-Added Quick Charge/Range/Explosive for Crossbows</p>
 <p>-Fortune affects Apple/Cocoa Bean drop rates from Leaves</p>
 <p>-Gold Tools/Armor have increased durability, making them great for enchanting</p>
 <p>&nbsp;</p>
