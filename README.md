@@ -1,4 +1,4 @@
-<p># WorseThanRelease</p>
+# WorseThanRelease</p>
 <p><img /><img src="https://github.com/Charmareian/WorseThanRelease/blob/main/hell.png?raw=true" alt="" width="480" height="270" /></p>
 <p>[Readded "Features"]</p>
 <p>-999 Block/Item limit</p>
